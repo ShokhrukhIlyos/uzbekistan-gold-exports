@@ -30,7 +30,7 @@ National and WITS totals can differ because of classification, scope, timing and
 4. https://siat.stat.uz/data/3082/?lang=en
 5. https://siat.stat.uz/data/1143/?lang=en
 6. https://siat.stat.uz/data/1103/?lang=en
-7. https://stat.uz/img/news/4_-talil-2025_j_-yanvar-dekabr-angl-_p47537.pdf
+7. https://stat.uz/img/news/4_-talil-2025_-yanvar-dekabr-angl-_p47537.pdf
 8. https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/world-bank-commodities-price-data-the-pink-sheet
 9. https://cbu.uz/en/statistics/
 
