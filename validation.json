@@ -1,0 +1,502 @@
+[
+  {
+    "file": "01_Uzbekistan_Statistics\\exports_monthly.xlsx",
+    "sheets": [
+      {
+        "name": "Ma'lumot",
+        "rows": 2,
+        "columns": 74
+      },
+      {
+        "name": "Metama'lumot",
+        "rows": 18,
+        "columns": 8
+      }
+    ]
+  },
+  {
+    "file": "01_Uzbekistan_Statistics\\export_structure_monthly.xlsx",
+    "sheets": [
+      {
+        "name": "Ma'lumot",
+        "rows": 12,
+        "columns": 74
+      },
+      {
+        "name": "Metama'lumot",
+        "rows": 17,
+        "columns": 8
+      }
+    ]
+  },
+  {
+    "file": "01_Uzbekistan_Statistics\\goods_exports_annual.xlsx",
+    "sheets": [
+      {
+        "name": "Ma'lumot",
+        "rows": 2,
+        "columns": 21
+      },
+      {
+        "name": "Metama'lumot",
+        "rows": 17,
+        "columns": 8
+      }
+    ]
+  },
+  {
+    "file": "03_World_Bank_Prices\\CMO-Historical-Data-Annual.xlsx",
+    "sheets": [
+      {
+        "name": "Cover",
+        "rows": 13,
+        "columns": 2
+      },
+      {
+        "name": "Annual Prices (Nominal)",
+        "rows": 248,
+        "columns": 87
+      },
+      {
+        "name": "Annual Indices (Nominal)",
+        "rows": 65219,
+        "columns": 81
+      },
+      {
+        "name": "Annual Prices (Real)",
+        "rows": 85,
+        "columns": 73
+      },
+      {
+        "name": "Annual Indices (Real)",
+        "rows": 328,
+        "columns": 81
+      },
+      {
+        "name": "Description",
+        "rows": 410,
+        "columns": 87
+      },
+      {
+        "name": "Definitions",
+        "rows": 25,
+        "columns": 23
+      },
+      {
+        "name": "Index Weights",
+        "rows": 101,
+        "columns": 251
+      }
+    ]
+  },
+  {
+    "file": "03_World_Bank_Prices\\CMO-Historical-Data-Monthly.xlsx",
+    "sheets": [
+      {
+        "name": "Mismatch Details",
+        "rows": 156,
+        "columns": 7
+      },
+      {
+        "name": "Monthly Prices",
+        "rows": 808,
+        "columns": 89
+      },
+      {
+        "name": "Monthly Indices",
+        "rows": 1362,
+        "columns": 81
+      },
+      {
+        "name": "Description",
+        "rows": 412,
+        "columns": 87
+      },
+      {
+        "name": "Index Weights",
+        "rows": 92,
+        "columns": 251
+      }
+    ]
+  },
+  {
+    "file": "04_Central_Bank\\Statistical_Bulletin_2026_07_01.xlsx",
+    "sheets": [
+      {
+        "name": "Content",
+        "rows": 87,
+        "columns": 1
+      },
+      {
+        "name": "1.1",
+        "rows": 25,
+        "columns": 49
+      },
+      {
+        "name": "1.2",
+        "rows": 94,
+        "columns": 17
+      },
+      {
+        "name": "1.3",
+        "rows": 67,
+        "columns": 15
+      },
+      {
+        "name": "1.4",
+        "rows": 90,
+        "columns": 5
+      },
+      {
+        "name": "1.5",
+        "rows": 63,
+        "columns": 26
+      },
+      {
+        "name": "1.6",
+        "rows": 78,
+        "columns": 40
+      },
+      {
+        "name": "1.7",
+        "rows": 29,
+        "columns": 170
+      },
+      {
+        "name": "2.1",
+        "rows": 42,
+        "columns": 82
+      },
+      {
+        "name": "2.2",
+        "rows": 34,
+        "columns": 80
+      },
+      {
+        "name": "2.3",
+        "rows": 33,
+        "columns": 80
+      },
+      {
+        "name": "2.4",
+        "rows": 90,
+        "columns": 15
+      },
+      {
+        "name": "3.1",
+        "rows": 43,
+        "columns": 4
+      },
+      {
+        "name": "3.2",
+        "rows": 9,
+        "columns": 2
+      },
+      {
+        "name": "3.3",
+        "rows": 86,
+        "columns": 5
+      },
+      {
+        "name": "3.4",
+        "rows": 90,
+        "columns": 3
+      },
+      {
+        "name": "3.5",
+        "rows": 368,
+        "columns": 11
+      },
+      {
+        "name": "3.6",
+        "rows": 91,
+        "columns": 3
+      },
+      {
+        "name": "3.7",
+        "rows": 91,
+        "columns": 7
+      },
+      {
+        "name": "4.1.1",
+        "rows": 93,
+        "columns": 4
+      },
+      {
+        "name": "4.1.2",
+        "rows": 64,
+        "columns": 3
+      },
+      {
+        "name": "4.2.1",
+        "rows": 93,
+        "columns": 13
+      },
+      {
+        "name": "4.2.2",
+        "rows": 92,
+        "columns": 5
+      },
+      {
+        "name": "4.2.3",
+        "rows": 176,
+        "columns": 20
+      },
+      {
+        "name": "5.1.1",
+        "rows": 22,
+        "columns": 80
+      },
+      {
+        "name": "5.1.2",
+        "rows": 87,
+        "columns": 39
+      },
+      {
+        "name": "5.1.3",
+        "rows": 85,
+        "columns": 25
+      },
+      {
+        "name": "5.1.4",
+        "rows": 84,
+        "columns": 10
+      },
+      {
+        "name": "5.1.5",
+        "rows": 91,
+        "columns": 50
+      },
+      {
+        "name": "5.1.6",
+        "rows": 92,
+        "columns": 13
+      },
+      {
+        "name": "5.1.7",
+        "rows": 93,
+        "columns": 57
+      },
+      {
+        "name": "5.1.8",
+        "rows": 87,
+        "columns": 11
+      },
+      {
+        "name": "5.1.9",
+        "rows": 560,
+        "columns": 5
+      },
+      {
+        "name": "5.1.10",
+        "rows": 38,
+        "columns": 159
+      },
+      {
+        "name": "5.1.11",
+        "rows": 26,
+        "columns": 11
+      },
+      {
+        "name": "5.1.12",
+        "rows": 64,
+        "columns": 15
+      },
+      {
+        "name": "5.1.13",
+        "rows": 31,
+        "columns": 63
+      },
+      {
+        "name": "5.1.14",
+        "rows": 29,
+        "columns": 11
+      },
+      {
+        "name": "5.1.15 ",
+        "rows": 182,
+        "columns": 14
+      },
+      {
+        "name": "5.1.16",
+        "rows": 30,
+        "columns": 66
+      },
+      {
+        "name": "5.1.17",
+        "rows": 29,
+        "columns": 13
+      },
+      {
+        "name": "5.1.18",
+        "rows": 209,
+        "columns": 12
+      },
+      {
+        "name": "5.2.1",
+        "rows": 95,
+        "columns": 10
+      },
+      {
+        "name": "5.2.2",
+        "rows": 87,
+        "columns": 8
+      },
+      {
+        "name": "5.2.3",
+        "rows": 87,
+        "columns": 6
+      },
+      {
+        "name": "5.2.4",
+        "rows": 87,
+        "columns": 5
+      },
+      {
+        "name": "5.2.5",
+        "rows": 87,
+        "columns": 5
+      },
+      {
+        "name": "5.2.6",
+        "rows": 87,
+        "columns": 5
+      },
+      {
+        "name": "5.2.7",
+        "rows": 87,
+        "columns": 5
+      },
+      {
+        "name": "5.2.8",
+        "rows": 18,
+        "columns": 79
+      },
+      {
+        "name": "5.2.9",
+        "rows": 18,
+        "columns": 79
+      },
+      {
+        "name": "5.3.1",
+        "rows": 94,
+        "columns": 10
+      },
+      {
+        "name": "5.3.2",
+        "rows": 96,
+        "columns": 9
+      },
+      {
+        "name": "5.3.3",
+        "rows": 96,
+        "columns": 10
+      },
+      {
+        "name": "5.3.4",
+        "rows": 88,
+        "columns": 11
+      },
+      {
+        "name": "5.3.5",
+        "rows": 89,
+        "columns": 16
+      },
+      {
+        "name": "5.3.6",
+        "rows": 87,
+        "columns": 16
+      },
+      {
+        "name": "5.3.7",
+        "rows": 90,
+        "columns": 12
+      },
+      {
+        "name": "5.3.8",
+        "rows": 76,
+        "columns": 11
+      },
+      {
+        "name": "5.3.9",
+        "rows": 21,
+        "columns": 79
+      },
+      {
+        "name": "5.3.10",
+        "rows": 12,
+        "columns": 79
+      },
+      {
+        "name": "5.3.11",
+        "rows": 96,
+        "columns": 9
+      },
+      {
+        "name": "5.3.12",
+        "rows": 96,
+        "columns": 9
+      },
+      {
+        "name": "5.3.13",
+        "rows": 95,
+        "columns": 9
+      },
+      {
+        "name": "5.3.14",
+        "rows": 81,
+        "columns": 13
+      },
+      {
+        "name": "5.3.15",
+        "rows": 91,
+        "columns": 6
+      },
+      {
+        "name": "5.3.16",
+        "rows": 106,
+        "columns": 10
+      },
+      {
+        "name": "6.1",
+        "rows": 103,
+        "columns": 13
+      },
+      {
+        "name": "6.2",
+        "rows": 92,
+        "columns": 7
+      },
+      {
+        "name": "6.3",
+        "rows": 92,
+        "columns": 8
+      },
+      {
+        "name": "6.4",
+        "rows": 84,
+        "columns": 13
+      },
+      {
+        "name": "6.5",
+        "rows": 78,
+        "columns": 10
+      },
+      {
+        "name": "6.6",
+        "rows": 9,
+        "columns": 9
+      },
+      {
+        "name": "6.7",
+        "rows": 56,
+        "columns": 8
+      },
+      {
+        "name": "6.8",
+        "rows": 18,
+        "columns": 6
+      }
+    ]
+  }
+]
