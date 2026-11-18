@@ -1,0 +1,21 @@
+index,year,usd_uzs_annual_average,unit,source,source_url,notes
+0,2006,1215.595,UZS per USD,Penn World Table 11.0 via FRED,https://fred.stlouisfed.org/data/XRNCUSUZA618NRUG,Annual average; source series labelled market+estimated
+1,2007,1260.833333,UZS per USD,Penn World Table 11.0 via FRED,https://fred.stlouisfed.org/data/XRNCUSUZA618NRUG,Annual average; source series labelled market+estimated
+2,2008,1314.166667,UZS per USD,Penn World Table 11.0 via FRED,https://fred.stlouisfed.org/data/XRNCUSUZA618NRUG,Annual average; source series labelled market+estimated
+3,2009,1458.75,UZS per USD,Penn World Table 11.0 via FRED,https://fred.stlouisfed.org/data/XRNCUSUZA618NRUG,Annual average; source series labelled market+estimated
+4,2010,1578.416667,UZS per USD,Penn World Table 11.0 via FRED,https://fred.stlouisfed.org/data/XRNCUSUZA618NRUG,Annual average; source series labelled market+estimated
+5,2011,1706.611111,UZS per USD,Penn World Table 11.0 via FRED,https://fred.stlouisfed.org/data/XRNCUSUZA618NRUG,Annual average; source series labelled market+estimated
+6,2012,1878.684444,UZS per USD,Penn World Table 11.0 via FRED,https://fred.stlouisfed.org/data/XRNCUSUZA618NRUG,Annual average; source series labelled market+estimated
+7,2013,2094.99,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
+8,2014,2310.9475,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
+9,2015,2567.986667,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
+10,2016,2965.253333,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
+11,2017,5113.88,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
+12,2018,8069.605833,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
+13,2019,8836.7875,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
+14,2020,10054.260833,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
+15,2021,10609.464167,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
+16,2022,11050.145833,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
+17,2023,11734.8325,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
+18,2024,12652.286667,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
+19,2025,12579.395833,UZS per USD,Central Bank of Uzbekistan; monthly period averages averaged for year,https://cbu.uz/en/statistics/e-gdds/data/111573/,Annual arithmetic mean of 12 monthly period averages
