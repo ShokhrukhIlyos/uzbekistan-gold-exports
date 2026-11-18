@@ -5,6 +5,7 @@ Collected: 18 November 2026.
 ## Start here
 - 00_Start_Here/Gold_Exports_Annual_2017_2025.csv: a derived table from WITS World totals, with export value converted from thousands of USD to USD, quantities in kg and tonnes, and annual value growth. Nine annual observations.
 - 00_Start_Here/Gold_Prices_and_Exports_Annual_1996_2025.csv: a 30-year comparison panel of annual gold prices and available gold export values. Export fields are blank where the current WITS dataset has no observation; blanks do not mean zero.
+- 00_Start_Here/usd_uzs_annual_average_2006_2025.csv: annual average exchange rates in UZS per USD for 2006–2025, with source and calculation notes in each row.
 - 00_Start_Here/Gold_Prices_Annual_USD_per_troy_ounce.csv and Gold_Prices_Monthly_USD_per_troy_ounce.csv: nominal gold prices extracted from the original World Bank Excel workbooks.
 
 ## Original data and reports
