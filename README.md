@@ -7,6 +7,7 @@ Collected: 18 November 2026.
 - 00_Start_Here/Gold_Prices_and_Exports_Annual_1996_2025.csv: a 30-year comparison panel of annual gold prices and available gold export values. Export fields are blank where the current WITS dataset has no observation; blanks do not mean zero.
 - 00_Start_Here/usd_uzs_annual_average_2006_2025.csv: annual average exchange rates in UZS per USD for 2006–2025, with source and calculation notes in each row.
 - 00_Start_Here/Gold_Prices_Annual_USD_per_troy_ounce.csv and Gold_Prices_Monthly_USD_per_troy_ounce.csv: nominal gold prices extracted from the original World Bank Excel workbooks.
+- 07_Mining_Production_Factors: five Uzbekistan annual mining-sector factor series from official SIAT tables, 2010–2025. See its README for definitions and regression caveats.
 
 ## Original data and reports
 - 01_Uzbekistan_Statistics: full export-structure monthly table, annual goods-export totals and monthly export totals in CSV/XLSX/JSON; official 2025 foreign trade report. These are general trade datasets, not all gold-only tables.
@@ -17,7 +18,7 @@ Collected: 18 November 2026.
 
 ## Coverage and access limitations
 The new 1996–2025 comparison panel has 30 annual rows, but Uzbekistan gold-export observations remain available in the current WITS files only for 2017–2025. WITS pages for 2010–2016 returned no data table, and earlier gold-export values were not verified in the sources collected here. Missing data are not zero exports. Do not use the 30-year panel as a 30-year gold-export regression dataset until historical export values are obtained from a reliable source.
-This package collects relevant public downloads from the nine previously listed links and associated downloads, not every dataset on those institutions' websites.
+The original collection covers the nine source links listed below. The additional mining-factor series are extracted from five official SIAT indicators documented in 07_Mining_Production_Factors/README.md.
 Direct UN Comtrade bulk/history requests returned HTTP 429 (rate limiting), and one request returned HTTP 400. No direct UN API historical dataset was obtained. Use WITS files here for the available annual history; WITS republishes UN Comtrade and is not independent confirmation.
 The WITS country-partner CSV contains both World totals and individual partners: do not sum World together with partner rows. Unspecified destinations must not be assigned to countries.
 WITS classification is HS 1988/92 code 7108 (broad gold category), not a single narrowly defined non-monetary gold subheading. Quantity values are displayed rounded and may be estimated by the original provider. Retain source caveats.
@@ -34,5 +35,10 @@ National and WITS totals can differ because of classification, scope, timing and
 7. https://stat.uz/img/news/4_-talil-2025-j_-yanvar-dekabr-angl-_p47537.pdf
 8. https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/world-bank-commodities-price-data-the-pink-sheet
 9. https://cbu.uz/en/statistics/
+10. https://siat.stat.uz/data/1899/?lang=en — mining and quarrying fixed-asset investment
+11. https://siat.stat.uz/data/1902/?lang=en — foreign mining investment and loans
+12. https://siat.stat.uz/data/1315/?lang=en — employment by economic activity
+13. https://siat.stat.uz/data/440/?lang=en — electricity production
+14. https://siat.stat.uz/data/1209/?lang=en — mining and quarrying value added at constant prices
 
 See download_log.json for individual successful and failed requests and validation.json for verified Excel workbook structure. CSV transcriptions/derived files are separate from original publisher downloads.
